@@ -1,39 +1,6 @@
-# Educational Initiative Placement Drive Assignment
+# Educational Initiative Assignment
 
 This repository contains the assignment for the Educational Initiative Placement Drive. The assignment is divided into two main exercises, focusing on design patterns and smart home automation.
-
-## File Structure
-
-```
-.
-├── Design Patterns - Ex 1
-│   ├── Behavioural Design Pattern
-│   │   ├── ObserverPatternMarvel.java
-│   │   └── StrategyPatternMarvel.java
-│   ├── Creational Design Patterns
-│   │   ├── FactoryPatternMarvel.java
-│   │   └── SingletonPatternMarvel.java
-│   └── Structural Design Pattern
-│       ├── AdapterPatternMarvel.java
-│       └── CompositePatternMarvel.java
-├── Exercise 2
-│   └── SmartHomeSystem/src
-│       ├── devices
-│       │   ├── DoorLock.java
-│       │   ├── Light.java
-│       │   ├── SmartDevice.java
-│       │   └── Thermostat.java
-│       ├── factory
-│       │   └── SmartDeviceFactory.java
-│       ├── hub
-│       │   └── SmartHomeHub.java
-│       ├── main
-│       │   └── SmartHomeSimulation.java
-│       └── proxy
-│           └── SmartDeviceProxy.java
-├── README.md
-└── .gitignore
-```
 
 ## Exercise 1: Design Patterns with Marvel Theme
 
